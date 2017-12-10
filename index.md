@@ -1,6 +1,6 @@
- # Agnce Web Maroc: Les 4 éléments de conception de site Web qui créent l'environnement parfait pour la croissance
+ ### Agnce Web Maroc: Les 4 éléments de conception de site Web qui créent l'environnement parfait pour la croissance
 
-### Source: https://creationwebsite.agency/ . Agence Web maroc Spécialisée au solution Web et Digital
+ # Source: [Link](https://creationwebsite.agency/) . Agence Web maroc Spécialisée au solution Web et Digital
 
 
 Que vous cherchiez à mettre à jour votre site Web actuel ou à créer votre premier site Web, l'une des principales choses à garder à l'esprit est la façon dont vous choisissez de concevoir ce site Web. Il peut être facile de ne pas investir du temps ou de l'argent dans l'esthétique de vos sites Web - surtout si vous êtes un magasin de brique et de mortier - mais il est important de se rappeler que votre destination en ligne reflète autant vos employés que vos employés. d'autant plus, que l'Internet est si facilement disponible.
@@ -52,7 +52,8 @@ Dès le début, créez une structure logique qui raconte une histoire tout en co
 Prenez le New Yorker, par exemple. La centrale littéraire dispose d'une barre de navigation propre, ainsi que d'une navigation permanente pour que tous les lecteurs puissent découvrir le contenu dont ils ont besoin rapidement et facilement.
 
 Ne négligez pas le mobile, non plus! Même si je parlerai un peu plus tard de l'importance des smartphones, n'oubliez pas qu'une navigation facile sur les appareils mobiles est tout aussi importante. Ces modules de conception peuvent même avoir besoin d'être plus proéminents en raison de la mise en page légèrement modifiée que l'optimisation mobile apporte souvent. Gardez cela à l'avant-plan de toutes les conversations de navigation et de mise en page.
-https://agence-digital-maroc.jimdo.com
+
+        [Agence de référencement naturel](https://agence-digital-maroc.jimdo.com)
 
 ## Créez un design de site Web sur la marque.
 
